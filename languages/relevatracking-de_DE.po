@@ -1,0 +1,104 @@
+# Copyright (C) 2024 releva.nz
+# This file is distributed under the same license as the releva.nz package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: releva.nz 2.1.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/"
+"qs_tool_wp_pot_gen_1721294379_0376_855615\n"
+"POT-Creation-Date: 2024-07-18 09:19:39+00:00\n"
+"PO-Revision-Date: 2024-07-18 11:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: admin/class-relevatracking-admin.php:140
+msgid "Settings saved successfully!"
+msgstr "Einstellungen erfolgreich gespeichert!"
+
+#: admin/class-relevatracking-admin.php:143
+#: admin/class-relevatracking-admin.php:150
+#: admin/class-relevatracking-admin.php:229
+#: admin/class-relevatracking-admin.php:474
+msgid "Invalid Key!"
+msgstr "Falsche API Key!"
+
+#: admin/class-relevatracking-admin.php:165
+msgid "API Key"
+msgstr ""
+
+#: admin/class-relevatracking-admin.php:166
+msgid "Please do not forget to enter your API Key"
+msgstr "Vergiss nicht, deinen API Key einzugeben."
+
+#: admin/class-relevatracking-admin.php:174
+msgid "Additional HTML"
+msgstr "Zusätzliches HTML"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: admin/class-relevatracking-admin.php:186
+#: admin/class-relevatracking-admin.php:187 admin/partials/admin-menu.php:15
+msgid "releva.nz"
+msgstr ""
+
+#: admin/class-relevatracking-admin.php:197
+#: admin/class-relevatracking-admin.php:198
+#: admin/class-relevatracking-admin.php:233 admin/partials/admin-menu.php:20
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/class-relevatracking-admin.php:232
+#: admin/class-relevatracking-admin.php:472
+msgid ""
+"If you already registered, you can find your API Key in your account and "
+"enter it here:"
+msgstr ""
+"Wenn du bereits registriert bist, findest du deinen API-Schlüssel in deinem "
+"Account und kannst Ihn hier eingeben:"
+
+#: admin/class-relevatracking-admin.php:235
+#: admin/class-relevatracking-admin.php:473
+msgid ""
+"<a href=\"https://releva.nz\" target=\"_blank\">Not registered yet? Get "
+"started now!</a>"
+msgstr ""
+"<a href=“https://releva.nz” target=“_blank”>Noch nicht registriert? Jetzt "
+"loslegen!</a>"
+
+#: admin/class-relevatracking-admin.php:475
+msgid "Send"
+msgstr "Speichern"
+
+#: admin/class-relevatracking-admin.php:476 admin/partials/admin-notices.php:10
+msgid "Settings successfully saved!"
+msgstr "Einstellungen erfolgreich gespeichert!"
+
+#: admin/class-relevatracking-admin.php:477
+msgid "Error saving settings"
+msgstr "Fehler beim Speichern der Einstellungen"
+
+#: admin/partials/admin-chart.php:19
+msgid "Releva Chart"
+msgstr ""
+
+#. translators: %1$s and %2$s are <strong> tags. %3$s and %4$s are <a> tags
+#: relevatracking.php:50
+msgid ""
+"%1$sreleva.nz is inactive%2$s as it requires WooCommerce. Please "
+"%3$sactivate WooCommerce version 2.4.13 or newer%4$s"
+msgstr ""
+"%1$sreleva.nz ist inaktiv%2$s, da es WooCommerce benötigt. Bitte "
+"%3$aktiviere WooCommerce Version 2.4.13 oder neuer%4$s"
+
+#. Plugin URI of the plugin/theme
+msgid "https://releva.nz"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Technology for personalized advertising"
+msgstr "Technologie für personalisierte Kundenansprache!"
